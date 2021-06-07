@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Katie Feucht](mailto:katie.feucht@owasp.org)
+* [David Quisenberry](mailto:david.quisenberry@owasp.org)
