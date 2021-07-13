@@ -41,7 +41,7 @@ Current PHD student at PSU
 #### Talk Description
 Organizations have rapidly shifted infrastructure and applications over to public cloud computing services such as AWS, Google Cloud Platform, and Azure. Unfortunately, such services have security models that are substantially different and more complex than traditional enterprise security models. As a result, misconfiguration errors in cloud deployments have led to dozens of well-publicized breaches. In this workshop, we will walkthrough levels of Thunder CTF, a scaffolded, scenario-based CTF for helping students learn about and practice cloud security skills on Google Cloud Platform. Thunder CTF contains both an attack path and a forensic path to allow players to role-play both an offensive and defensive role in the cloud.  The workshop will require access to a Google Cloud Platform account.
 
-### AWS Security - Andrew Krug 
+### Securing the Cloud, Basic Hygiene - Andrew Krug 
 #### Bio
 Andrew Krug is a Security Engineer specializing in Cloud Security and Identity and Access Management. Krug also works as a Cloud Security consultant and started the ThreatResponse project a toolkit for Amazon Web Services first responders. Krug has been a speaker at Black Hat USA, DerbyCon, and BSides PDX.
 
