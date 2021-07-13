@@ -57,13 +57,13 @@ In this training session you’ll learn the basics of starting up an AWS Account
 
 ### Training Session Sponsors
 
-![Cambia Health Solutions Logo](sponsors/Cambia_1-Session.jpg "Cambia Health Solutions Logo")
+![Cambia Health Solutions Logo](sponsors/Cambia_1-Session.jpeg "Cambia Health Solutions Logo")
 
 ![ForgeRock Logo](sponsors/Forgerock_1-Session.png "ForgeRock Logo")
 
 ![Guidepoint Security Logo](sponsors/Guidepoint-Session.png "Guidepoint Security Logo")
 
-![Synopsys Logo](sponsors/Synopsys-Session.jpg "Synopsys Logo")
+![Synopsys Logo](sponsors/Synopsys-Session.jpeg "Synopsys Logo")
 
 ### CTF Sponsors
 ![Summit Security Group LLC Logo](sponsors/Summit_logo-MAIN_tdm.svg "Summit Security Group LLC Logo")
