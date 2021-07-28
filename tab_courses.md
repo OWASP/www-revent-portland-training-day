@@ -2,7 +2,7 @@
 title: Courses
 layout: null
 tab: true
-order: 1
+order: 4
 tags: example-tag
 ---
 
