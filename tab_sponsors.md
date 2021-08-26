@@ -44,3 +44,9 @@ tags: example-tag
 <br>
 
 ![DeepSurface Security Logo](sponsors/DeepSurface-LunchPanel.png "DeepSurface Security Logo")
+
+<br>
+
+![HackerOne Logo](sponsors/HackerOne-LunchPanel.png "HackerOne Logo")
+
+<br>

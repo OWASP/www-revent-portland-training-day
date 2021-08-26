@@ -6,12 +6,21 @@ order: 4
 tags: example-tag
 ---
 
+<script src="assets/global/anchor.min.js"></script>
+<script src="assets/global/jquery-3.1.0.min.js"></script>
+<script>
+    $(function() {
+        anchors.options.visible = 'hover';
+        anchors.add('.post-content > h1, h2, h3');
+    });
+</script>
+
 ## Courses
 Courses will be held in two tracks: Morning sessions and Afternoon sessions. Each participant can register for one morning course, one afternoon course, or one of each. The maximum total number of courses you may register for is two, that is if you choose one in the morning and one in the afternoon.
 
 ---
 
-### Intro to pen testing and burp - Debolina De
+### Intro to pentesting and Burp - Debolina De
 #### Bio
 Debolina is an experienced cybersecurity researcher and now professional driven by curiosity and a motto of knowledge being timeless. Having keen interest and acquired knowledge in security , she joined Ernst and Young as a CyberSecurity consultant where she had multiple Fortune 500 companies as her playground as part of their Center of Excellence. She then moved into the depths, actively researching IOT and 5G security under some of the brightest minds at Johns Hopkins University. The recognized results gave her the opportunity to interact and share her observations with peers across the globe as a speaker at the Grace Hopper. She now continues to do so at multiple conferences and has even joined Synopsys, California in their efforts to provide the best security in multiple platforms and paradigms.
 
