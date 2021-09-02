@@ -8,7 +8,7 @@ tags: example-tag
 
 ## 2021 Sponsors
 
-[Sponsorship Opportunities](/sponsors/2021-PDX-OWASP-Training-Day-Sponsorship-Opportunities.pdf)
+[Sponsorship Opportunities](https://raw.githubusercontent.com/OWASP/www-revent-portland-training-day/main/sponsors/2021-PDX-OWASP-Training-Day-Sponsorship-Opportunities.pdf)
 
 ### Keynote Sponsors
 ![Github Logo](sponsors/GitHub_1-Keynote.png "Github Logo")
