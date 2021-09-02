@@ -6,21 +6,13 @@ order: 4
 tags: example-tag
 ---
 
-<script src="assets/global/anchor.min.js"></script>
-<script src="assets/global/jquery-3.1.0.min.js"></script>
-<script>
-    $(function() {
-        anchors.options.visible = 'hover';
-        anchors.add('.post-content > h1, h2, h3');
-    });
-</script>
 
 ## Courses
 Courses will be held in two tracks: Morning sessions and Afternoon sessions. Each participant can register for one morning course, one afternoon course, or one of each. The maximum total number of courses you may register for is two, that is if you choose one in the morning and one in the afternoon.
 
 ---
 
-### Intro to pentesting and Burp - Debolina De
+### [Intro to pen testing and burp - Debolina De](#intro-to-pentesting-and-burp-debolina-de) 
 #### Bio
 Debolina is an experienced cybersecurity researcher and now professional driven by curiosity and a motto of knowledge being timeless. Having keen interest and acquired knowledge in security , she joined Ernst and Young as a CyberSecurity consultant where she had multiple Fortune 500 companies as her playground as part of their Center of Excellence. She then moved into the depths, actively researching IOT and 5G security under some of the brightest minds at Johns Hopkins University. The recognized results gave her the opportunity to interact and share her observations with peers across the globe as a speaker at the Grace Hopper. She now continues to do so at multiple conferences and has even joined Synopsys, California in their efforts to provide the best security in multiple platforms and paradigms.
 
@@ -29,7 +21,7 @@ The session aims to cover security at varied depths starting with an initial und
 
 ---
 
-### Threat modeling with Threat Dragon - Jon Gadsden
+### [Threat modeling with Threat Dragon - Jon Gadsden](#threat-modeling-with-threat-dragon-jon-gadsden)
 #### Bio
 Jon is a software security engineer at ForgeRock with over eight years of experience in product security. He is more of a defender than an attacker, and concentrates on encouraging a secure development lifecycle within development teams - and in particular threat modeling. Jon has been a long term contributor to the OWASP Threat Dragon open source project and is co-leader of the project alongside Mike Goodwin, the founder of Threat Dragon. His interest in threat modeling started when he saw that it was an often neglected activity in the secure lifecycle, which puzzled him because it is a wide ranging task that is popular with development teams. From that time he has not looked back and works on threat modeling tools, presents threat modeling at OWASP chapter meetings and reassures development teams that threat modeling is both enjoyable and useful.
 
@@ -38,7 +30,7 @@ OWASP Threat Dragon is a tool used to help create threat models, usually as part
 
 ---
 
-### Google Cloud Platform Security - Wu-chang Feng & Wenjing Wu
+### [Google Cloud Platform Security - Wu-chang Feng & Wenjing Wu](#google-cloud-platform-security-wu-chang-feng-and-wenjing-wu)
 #### Bio - Wu-chang Feng
 Wu-chang Feng is a professor in the Department of Computer Science at Portland State University where he works on topics in cloud computing and security.  His current projects include developing CTFs and codelabs to teach advanced topics in security as well as performing outreach to high-schools via camps and internships through CyberPDX and Saturday Academy.
 
@@ -50,9 +42,9 @@ Organizations have rapidly shifted infrastructure and applications over to publi
 
 ---
 
-### Securing the Cloud, Basic Hygiene - Andrew Krug 
+### [Securing the Cloud, Basic Hygiene - Andrew Krug](#securing-the-cloud-basic-hygiene-andrew-krug)
 #### Bio
 Andrew Krug is a Security Engineer specializing in Cloud Security and Identity and Access Management. Krug also works as a Cloud Security consultant and started the ThreatResponse project a toolkit for Amazon Web Services first responders. Krug has been a speaker at Black Hat USA, DerbyCon, and BSides PDX.
 
 #### Talk Description
-In this training session you’ll learn the basics of starting up an AWS Account.  What to enable, disable, and lock down.  We’ll wrap up the session with a little log exercise.  Participants will need to have a brand new AWS Account registered already to a valid email address in order to participate.  This is notably content in short-form from one of the days of https://wildwesthackinfest.com/antisyphon/securing-the-cloud/ -- Also taught by the instructor.
+In this training session you’ll learn the basics of starting up an AWS Account.  What to enable, disable, and lock down.  We’ll wrap up the session with a little log exercise.  Participants will need to have a brand new AWS Account registered already to a valid email address in order to participate.  This is notably content in short-form from one of the days of [https://wildwesthackinfest.com/antisyphon/securing-the-cloud/](https://wildwesthackinfest.com/antisyphon/securing-the-cloud/) -- Also taught by the instructor.

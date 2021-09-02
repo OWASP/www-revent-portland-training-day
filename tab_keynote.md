@@ -6,7 +6,7 @@ order: 2
 tags: example-tag
 ---
 
-### Keynote - A Weighty Discussion of Frivolous Things
+### [Keynote - A Weighty Discussion of Frivolous Things](#keynote-a-weighty-discussion-of-frivolous-things)
 In a world where our gas and our burgers are under threat by Russian CRIMINALS, how can anyone take their shoulder from the grindstone, their eye off the ball, their hands from the wheel ... it all seems pretty convoluted, doesn't it? Doing the same thing over and over doesn't seem to be solving our problems, and Adam will share some tools and frames that have worked for him and will empower you to achieve more and have fun while making the world a better place.
 
 #### Bio: Adam Shostack

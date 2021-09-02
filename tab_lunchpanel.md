@@ -6,7 +6,7 @@ order: 3
 tags: example-tag
 ---
 
-### Lunch Panel - Building a career in infosec
+### [Lunch Panel - Building a career in infosec](#lunch-panel-building-a-career-in-infosec)
 
 #### Dave Dyk
 Dave Dyk is the VP/Information Security & Risk at Betterment. Betterment is on a mission to empower people to do what’s best with their money so they can live better. Dave is responsible for the company information security program, ERM, and operational risk. Prior to joining Betterment, Dave has led information security risk management, product security, privacy, and other risk disciplines in financial services and as a consultant.
