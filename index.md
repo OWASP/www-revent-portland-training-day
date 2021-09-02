@@ -28,6 +28,6 @@ Want to get news and information on our 2021 Training Day? Subscribe to the [Por
 ---
 
 ## How to Register
-* TBD
+* [https://owasp.org/www-revent-portland-training-day/](https://owasp.org/www-revent-portland-training-day/)
 
 Thank you to the OWASP Foundation and the many sponsors, trainers, volunteers and trainers that have helped make Training Day a success and allow us to continue!
