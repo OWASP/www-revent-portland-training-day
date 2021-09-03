@@ -21,13 +21,14 @@ Want to get news and information on our 2021 Training Day? Subscribe to the [Por
 | Time | Course | Course | CTF |
 |------|----------|-|-|
 | 8:30 AM - 9:20 AM  | Keynote | | |
-| 9:30 AM - 12:00 PM | Course TBD | Course TBD | CTF |
+| 9:30 AM - 12:00 PM | Intro to pen testing and burp - Debolina De | Securing the Cloud, Basic Hygiene - Andrew Krug | CTF |
 | 12:15 PM - 1:15 PM | Lunch Panel | | |
-| 1:30 PM - 4:00 PM  | Course TBD | Course TBD | CTF |
+| 1:30 PM - 4:00 PM  | Threat modeling with Threat Dragon - Jon Gadsden | Google Cloud Platform Security - Wu-chang Feng & Wenjing Wu | CTF |
 
 ---
 
 ## How to Register
-* [https://owasp.org/www-revent-portland-training-day/](https://owasp.org/www-revent-portland-training-day/)
+<!-- * [Eventbrite Registration](https://www.eventbrite.com/e/owasp-portland-2021-training-day-tickets-151808052973?aff=ebdsoporgprofile) -->
+<a href="https://www.eventbrite.com/e/owasp-portland-2021-training-day-tickets-151808052973?aff=ebdsoporgprofile" target="_blank">Eventbrite Registration</a>
 
 Thank you to the OWASP Foundation and the many sponsors, trainers, volunteers and trainers that have helped make Training Day a success and allow us to continue!
