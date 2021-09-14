@@ -20,10 +20,10 @@ Want to get news and information on our 2021 Training Day? Subscribe to the [Por
 
 | Time | Course | Course | CTF |
 |------|----------|-|-|
-| 8:30 AM - 9:20 AM  | Keynote | | |
-| 9:30 AM - 12:00 PM | Intro to pen testing and burp - Debolina De | Securing the Cloud, Basic Hygiene - Andrew Krug | CTF |
-| 12:15 PM - 1:15 PM | Lunch Panel | | |
-| 1:30 PM - 4:00 PM  | Threat modeling with Threat Dragon - Jon Gadsden | Google Cloud Platform Security - Wu-chang Feng & Wenjing Wu | CTF |
+| 8:45 AM - 9:20 AM  | Keynote - A Weighty Discussion of Frivolous Things (Adam Shostack) | | |
+| 9:30 AM - 12:00 PM | Intro to pen testing and Burp (Debolina De) | Securing the Cloud, Basic Hygiene (Andrew Krug) | CTF |
+| 12:15 PM - 1:15 PM | Lunch Panel - Building a career in infosec (Dave Dyk, Hadas Cassorla, Jason Blanchard, Jay Berry, Mike Hanley, Deveeshree Nayak) | | |
+| 1:30 PM - 4:00 PM  | Threat modeling with Threat Dragon (Jon Gadsden) | Google Cloud Platform Security (Wu-chang Feng & Wenjing Wu) | CTF |
 
 ---
 
