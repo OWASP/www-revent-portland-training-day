@@ -16,6 +16,14 @@ Want to get news and information on our 2021 Training Day? Subscribe to the [Por
 
 ---
 
+## How to Register
+<a href="https://www.eventbrite.com/e/owasp-portland-2021-training-day-tickets-151808052973?aff=ebdsoporgprofile" target="_blank">Eventbrite Registration</a>
+
+## Join our OWASP Slack channel
+<a href="https://join.slack.com/share/zt-wqvtk8dv-407xQMh6A9dkdDz3ONuUKQ" target="_blank">#owasppdx-training-day-2021</a>
+
+---
+
 ### Schedule
 
 | Time | Course | Course | CTF |
@@ -27,7 +35,5 @@ Want to get news and information on our 2021 Training Day? Subscribe to the [Por
 
 ---
 
-## How to Register
-<a href="https://www.eventbrite.com/e/owasp-portland-2021-training-day-tickets-151808052973?aff=ebdsoporgprofile" target="_blank">Eventbrite Registration</a>
-
 Thank you to the OWASP Foundation and the many sponsors, trainers, volunteers and trainers that have helped make Training Day a success and allow us to continue!
+
